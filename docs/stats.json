@@ -5816,7 +5816,7 @@
       "format": "esm"
     },
     "src/app/app.component.ts": {
-      "bytes": 23126,
+      "bytes": 23112,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -6176,13 +6176,13 @@
           "bytesInOutput": 28
         },
         "src/app/app.component.ts": {
-          "bytesInOutput": 19943
+          "bytesInOutput": 19929
         },
         "src/main.ts": {
           "bytesInOutput": 37
         }
       },
-      "bytes": 196830
+      "bytes": 196816
     },
     "app.component.css": {
       "imports": [],
