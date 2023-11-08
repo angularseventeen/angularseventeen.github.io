@@ -53,7 +53,7 @@ module.exports = function (config) {
     htmlReporter: {
       outputFile: 'docs/tests/units.html',
       pageTitle: 'Unit Tests',
-      subPageTitle: 'for Angular fifteen project',
+      subPageTitle: 'for Angular seventeen project',
       groupSuites: true,
       useCompactStyle: true,
       useLegacyStyle: false,
