@@ -72,6 +72,16 @@ echo "\`\`\`"  >> README.md 2>&1;
 git add .;
 git commit -m "end prepare to build angular";
 
+
+echo "\`\`\`bash"  >> README.md 2>&1;
+ping -A -D -c 20 -v 8.8.8.8 >> ping.txt 2>&1;
+git add .;
+git commit -m "copy built file to parent folder." -m "see https://github.com/angular/angular-cli/issues/26028#issuecomment-1761026498 for more details";
+cp -R docs/browser/* docs/
+echo "\`\`\`"  >> README.md 2>&1;
+git add .;
+git commit -m "end prepare to build angular";
+
 echo "\`\`\`bash" > locallog/fedoratest.md;
 ping -A -D -c 20 -v 8.8.8.8 >> ping.txt 2>&1;
 git add .;
