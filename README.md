@@ -61,3 +61,23 @@ caniuse-lite has been successfully updated
 No target browser changes
 ```
 ```bash
+yarn run v1.22.19
+$ ng build --configuration production --output-path docs --output-hashing none --stats-json true --subresource-integrity true --verbose true
+- Building...
+
+  polyfills.js  32.7kb
+
+
+  main.js  192.2kb
+
+
+Initial Chunk Files | Names         |  Raw Size | Estimated Transfer Size
+main.js             | main          | 192.22 kB |                52.83 kB
+polyfills.js        | polyfills     |  32.69 kB |                10.59 kB
+styles.css          | styles        |   0 bytes |                 0 bytes
+
+                    | Initial Total | 224.91 kB |                63.42 kB
+
+Application bundle generation complete. [4.703 seconds]
+Done in 5.50s.
+```
