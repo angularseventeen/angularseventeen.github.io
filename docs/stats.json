@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1391847,
+      "bytes": 1392036,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5672,7 +5672,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/http.mjs": {
-      "bytes": 110783,
+      "bytes": 110928,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5713,7 +5713,7 @@
       "format": "esm"
     },
     "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
-      "bytes": 78785,
+      "bytes": 78827,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -6158,13 +6158,13 @@
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 75288
+          "bytesInOutput": 75537
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
           "bytesInOutput": 5870
         },
         "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
-          "bytesInOutput": 11453
+          "bytesInOutput": 11464
         },
         "node_modules/@angular/router/fesm2022/router.mjs": {
           "bytesInOutput": 61600
@@ -6182,7 +6182,7 @@
           "bytesInOutput": 37
         }
       },
-      "bytes": 196793
+      "bytes": 197053
     },
     "app.component.css": {
       "imports": [],
