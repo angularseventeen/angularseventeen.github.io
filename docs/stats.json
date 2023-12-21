@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1395862,
+      "bytes": 1396994,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5672,7 +5672,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/http.mjs": {
-      "bytes": 110981,
+      "bytes": 110942,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5749,7 +5749,7 @@
       "format": "esm"
     },
     "node_modules/@angular/router/fesm2022/router.mjs": {
-      "bytes": 276676,
+      "bytes": 276696,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5945,16 +5945,13 @@
           "bytesInOutput": 76
         },
         "node_modules/rxjs/dist/esm/internal/util/identity.js": {
-          "bytesInOutput": 23
+          "bytesInOutput": 24
         },
         "node_modules/rxjs/dist/esm/internal/util/pipe.js": {
-          "bytesInOutput": 130
+          "bytesInOutput": 131
         },
         "node_modules/rxjs/dist/esm/internal/Observable.js": {
           "bytesInOutput": 935
-        },
-        "node_modules/rxjs/dist/esm/index.js": {
-          "bytesInOutput": 0
         },
         "node_modules/rxjs/dist/esm/internal/util/lift.js": {
           "bytesInOutput": 203
@@ -5968,23 +5965,26 @@
         "node_modules/rxjs/dist/esm/internal/observable/ConnectableObservable.js": {
           "bytesInOutput": 741
         },
+        "node_modules/rxjs/dist/esm/index.js": {
+          "bytesInOutput": 0
+        },
         "node_modules/rxjs/dist/esm/internal/util/ObjectUnsubscribedError.js": {
           "bytesInOutput": 105
         },
         "node_modules/rxjs/dist/esm/internal/Subject.js": {
-          "bytesInOutput": 1974
+          "bytesInOutput": 1976
         },
         "node_modules/rxjs/dist/esm/internal/BehaviorSubject.js": {
-          "bytesInOutput": 308
+          "bytesInOutput": 309
         },
         "node_modules/rxjs/dist/esm/internal/observable/empty.js": {
-          "bytesInOutput": 29
+          "bytesInOutput": 30
         },
         "node_modules/rxjs/dist/esm/internal/util/isScheduler.js": {
           "bytesInOutput": 39
         },
         "node_modules/rxjs/dist/esm/internal/util/args.js": {
-          "bytesInOutput": 186
+          "bytesInOutput": 129
         },
         "node_modules/tslib/tslib.es6.mjs": {
           "bytesInOutput": 1735
@@ -6017,10 +6017,10 @@
           "bytesInOutput": 1042
         },
         "node_modules/rxjs/dist/esm/internal/util/executeSchedule.js": {
-          "bytesInOutput": 138
+          "bytesInOutput": 137
         },
         "node_modules/rxjs/dist/esm/internal/operators/observeOn.js": {
-          "bytesInOutput": 142
+          "bytesInOutput": 139
         },
         "node_modules/rxjs/dist/esm/internal/operators/subscribeOn.js": {
           "bytesInOutput": 78
@@ -6035,10 +6035,10 @@
           "bytesInOutput": 144
         },
         "node_modules/rxjs/dist/esm/internal/scheduled/scheduleIterable.js": {
-          "bytesInOutput": 213
+          "bytesInOutput": 211
         },
         "node_modules/rxjs/dist/esm/internal/scheduled/scheduleAsyncIterable.js": {
-          "bytesInOutput": 206
+          "bytesInOutput": 204
         },
         "node_modules/rxjs/dist/esm/internal/scheduled/scheduleReadableStreamLike.js": {
           "bytesInOutput": 36
@@ -6074,16 +6074,16 @@
           "bytesInOutput": 60
         },
         "node_modules/rxjs/dist/esm/internal/observable/combineLatest.js": {
-          "bytesInOutput": 420
+          "bytesInOutput": 421
         },
         "node_modules/rxjs/dist/esm/internal/operators/mergeInternals.js": {
-          "bytesInOutput": 380
+          "bytesInOutput": 379
         },
         "node_modules/rxjs/dist/esm/internal/operators/mergeMap.js": {
           "bytesInOutput": 128
         },
         "node_modules/rxjs/dist/esm/internal/operators/mergeAll.js": {
-          "bytesInOutput": 33
+          "bytesInOutput": 34
         },
         "node_modules/rxjs/dist/esm/internal/operators/concatAll.js": {
           "bytesInOutput": 27
@@ -6093,9 +6093,6 @@
         },
         "node_modules/rxjs/dist/esm/internal/observable/defer.js": {
           "bytesInOutput": 54
-        },
-        "node_modules/rxjs/dist/esm/internal/observable/merge.js": {
-          "bytesInOutput": 99
         },
         "node_modules/rxjs/dist/esm/internal/operators/filter.js": {
           "bytesInOutput": 92
@@ -6113,13 +6110,10 @@
           "bytesInOutput": 113
         },
         "node_modules/rxjs/dist/esm/internal/operators/take.js": {
-          "bytesInOutput": 115
+          "bytesInOutput": 116
         },
         "node_modules/rxjs/dist/esm/internal/operators/mapTo.js": {
           "bytesInOutput": 31
-        },
-        "node_modules/rxjs/dist/esm/internal/operators/distinctUntilChanged.js": {
-          "bytesInOutput": 156
         },
         "node_modules/rxjs/dist/esm/internal/operators/throwIfEmpty.js": {
           "bytesInOutput": 144
@@ -6128,19 +6122,16 @@
           "bytesInOutput": 71
         },
         "node_modules/rxjs/dist/esm/internal/operators/first.js": {
-          "bytesInOutput": 114
+          "bytesInOutput": 115
         },
         "node_modules/rxjs/dist/esm/internal/operators/takeLast.js": {
-          "bytesInOutput": 173
+          "bytesInOutput": 174
         },
         "node_modules/rxjs/dist/esm/internal/operators/last.js": {
-          "bytesInOutput": 114
+          "bytesInOutput": 115
         },
         "node_modules/rxjs/dist/esm/internal/operators/scan.js": {
           "bytesInOutput": 58
-        },
-        "node_modules/rxjs/dist/esm/internal/operators/share.js": {
-          "bytesInOutput": 653
         },
         "node_modules/rxjs/dist/esm/internal/operators/startWith.js": {
           "bytesInOutput": 84
@@ -6152,13 +6143,13 @@
           "bytesInOutput": 101
         },
         "node_modules/rxjs/dist/esm/internal/operators/tap.js": {
-          "bytesInOutput": 489
+          "bytesInOutput": 490
         },
         "node_modules/rxjs/dist/esm/operators/index.js": {
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 75969
+          "bytesInOutput": 76452
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
           "bytesInOutput": 5870
@@ -6167,7 +6158,7 @@
           "bytesInOutput": 11387
         },
         "node_modules/@angular/router/fesm2022/router.mjs": {
-          "bytesInOutput": 61539
+          "bytesInOutput": 61567
         },
         "src/app/app.routes.ts": {
           "bytesInOutput": 10
@@ -6182,7 +6173,7 @@
           "bytesInOutput": 37
         }
       },
-      "bytes": 197350
+      "bytes": 196900
     },
     "app.component.css": {
       "imports": [],
