@@ -1,7 +1,7 @@
 {
   "inputs": {
     "node_modules/@angular/core/fesm2022/primitives/signals.mjs": {
-      "bytes": 19479,
+      "bytes": 19225,
       "imports": [
         {
           "path": "<runtime>",
@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1397949,
+      "bytes": 1402939,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5646,7 +5646,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/common.mjs": {
-      "bytes": 274219,
+      "bytes": 274516,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5672,7 +5672,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/http.mjs": {
-      "bytes": 110942,
+      "bytes": 115991,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5713,7 +5713,7 @@
       "format": "esm"
     },
     "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
-      "bytes": 78772,
+      "bytes": 79211,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5749,7 +5749,7 @@
       "format": "esm"
     },
     "node_modules/@angular/router/fesm2022/router.mjs": {
-      "bytes": 276346,
+      "bytes": 280006,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5903,7 +5903,7 @@
       "entryPoint": "src/main.ts",
       "inputs": {
         "node_modules/@angular/core/fesm2022/primitives/signals.mjs": {
-          "bytesInOutput": 2296
+          "bytesInOutput": 2316
         },
         "node_modules/rxjs/dist/esm/internal/util/isFunction.js": {
           "bytesInOutput": 42
@@ -5933,7 +5933,7 @@
           "bytesInOutput": 15
         },
         "node_modules/rxjs/dist/esm/internal/NotificationFactories.js": {
-          "bytesInOutput": 165
+          "bytesInOutput": 157
         },
         "node_modules/rxjs/dist/esm/internal/util/errorContext.js": {
           "bytesInOutput": 281
@@ -5942,13 +5942,13 @@
           "bytesInOutput": 1571
         },
         "node_modules/rxjs/dist/esm/internal/symbol/observable.js": {
-          "bytesInOutput": 76
+          "bytesInOutput": 68
         },
         "node_modules/rxjs/dist/esm/internal/util/identity.js": {
-          "bytesInOutput": 23
+          "bytesInOutput": 24
         },
         "node_modules/rxjs/dist/esm/internal/util/pipe.js": {
-          "bytesInOutput": 130
+          "bytesInOutput": 131
         },
         "node_modules/rxjs/dist/esm/internal/Observable.js": {
           "bytesInOutput": 935
@@ -6074,7 +6074,7 @@
           "bytesInOutput": 60
         },
         "node_modules/rxjs/dist/esm/internal/observable/combineLatest.js": {
-          "bytesInOutput": 419
+          "bytesInOutput": 421
         },
         "node_modules/rxjs/dist/esm/internal/operators/mergeInternals.js": {
           "bytesInOutput": 379
@@ -6083,7 +6083,7 @@
           "bytesInOutput": 128
         },
         "node_modules/rxjs/dist/esm/internal/operators/mergeAll.js": {
-          "bytesInOutput": 33
+          "bytesInOutput": 34
         },
         "node_modules/rxjs/dist/esm/internal/operators/concatAll.js": {
           "bytesInOutput": 27
@@ -6122,13 +6122,13 @@
           "bytesInOutput": 71
         },
         "node_modules/rxjs/dist/esm/internal/operators/first.js": {
-          "bytesInOutput": 114
+          "bytesInOutput": 115
         },
         "node_modules/rxjs/dist/esm/internal/operators/takeLast.js": {
           "bytesInOutput": 174
         },
         "node_modules/rxjs/dist/esm/internal/operators/last.js": {
-          "bytesInOutput": 114
+          "bytesInOutput": 115
         },
         "node_modules/rxjs/dist/esm/internal/operators/scan.js": {
           "bytesInOutput": 58
@@ -6143,22 +6143,22 @@
           "bytesInOutput": 101
         },
         "node_modules/rxjs/dist/esm/internal/operators/tap.js": {
-          "bytesInOutput": 489
+          "bytesInOutput": 490
         },
         "node_modules/rxjs/dist/esm/operators/index.js": {
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 75974
+          "bytesInOutput": 76584
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
-          "bytesInOutput": 5870
+          "bytesInOutput": 5846
         },
         "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
           "bytesInOutput": 11387
         },
         "node_modules/@angular/router/fesm2022/router.mjs": {
-          "bytesInOutput": 61448
+          "bytesInOutput": 62918
         },
         "src/app/app.routes.ts": {
           "bytesInOutput": 10
@@ -6173,7 +6173,7 @@
           "bytesInOutput": 37
         }
       },
-      "bytes": 196285
+      "bytes": 198353
     },
     "app.component.css": {
       "imports": [],
