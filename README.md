@@ -82,3 +82,4 @@ styles.css          | styles        |   0 bytes |                 0 bytes
 Application bundle generation complete. [8.673 seconds]
 Done in 9.78s.
 ```
+```bash
