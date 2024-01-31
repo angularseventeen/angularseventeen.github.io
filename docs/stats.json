@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1402752,
+      "bytes": 1407676,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5646,7 +5646,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/common.mjs": {
-      "bytes": 274516,
+      "bytes": 274952,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5672,7 +5672,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/http.mjs": {
-      "bytes": 115991,
+      "bytes": 115958,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5713,7 +5713,7 @@
       "format": "esm"
     },
     "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
-      "bytes": 79211,
+      "bytes": 78125,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5749,7 +5749,7 @@
       "format": "esm"
     },
     "node_modules/@angular/router/fesm2022/router.mjs": {
-      "bytes": 280153,
+      "bytes": 279963,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -6149,16 +6149,16 @@
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 76543
+          "bytesInOutput": 76355
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
-          "bytesInOutput": 5846
+          "bytesInOutput": 5759
         },
         "node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs": {
-          "bytesInOutput": 11387
+          "bytesInOutput": 11270
         },
         "node_modules/@angular/router/fesm2022/router.mjs": {
-          "bytesInOutput": 62973
+          "bytesInOutput": 62951
         },
         "src/app/app.routes.ts": {
           "bytesInOutput": 10
@@ -6173,7 +6173,7 @@
           "bytesInOutput": 37
         }
       },
-      "bytes": 198367
+      "bytes": 197953
     },
     "app.component.css": {
       "imports": [],
