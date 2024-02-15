@@ -6,3 +6,9 @@ Thu Feb 15 09:16:15 AM EST 2024
 This project is live at [https://angularseventeen.github.io](https://angularseventeen.github.io "seventeen!") thanks to Github.
 
 ```bash
+System Memory
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       3.8Gi       1.8Gi       367Mi        10Gi        11Gi
+Swap:          8.0Gi       1.7Gi       6.3Gi
+System Storage
+502M	.
