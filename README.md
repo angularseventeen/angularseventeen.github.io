@@ -87,3 +87,4 @@ Output location: /home/kushal/src/angular/angularseventeengithubio/docs
 Application bundle generation complete. [6.429 seconds]
 Done in 7.15s.
 ```
+```bash
