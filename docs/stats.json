@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1434991,
+      "bytes": 1445682,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5646,7 +5646,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/common.mjs": {
-      "bytes": 284556,
+      "bytes": 284042,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5672,7 +5672,7 @@
       "format": "esm"
     },
     "node_modules/@angular/common/fesm2022/http.mjs": {
-      "bytes": 116024,
+      "bytes": 116150,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5749,7 +5749,7 @@
       "format": "esm"
     },
     "node_modules/@angular/router/fesm2022/router.mjs": {
-      "bytes": 279997,
+      "bytes": 280880,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5816,7 +5816,7 @@
       "format": "esm"
     },
     "src/app/app.component.ts": {
-      "bytes": 23139,
+      "bytes": 23122,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5972,10 +5972,10 @@
           "bytesInOutput": 105
         },
         "node_modules/rxjs/dist/esm/internal/Subject.js": {
-          "bytesInOutput": 1976
+          "bytesInOutput": 1974
         },
         "node_modules/rxjs/dist/esm/internal/BehaviorSubject.js": {
-          "bytesInOutput": 309
+          "bytesInOutput": 308
         },
         "node_modules/rxjs/dist/esm/internal/observable/empty.js": {
           "bytesInOutput": 30
@@ -6149,7 +6149,7 @@
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 76783
+          "bytesInOutput": 77509
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
           "bytesInOutput": 5763
@@ -6158,7 +6158,7 @@
           "bytesInOutput": 11270
         },
         "node_modules/@angular/router/fesm2022/router.mjs": {
-          "bytesInOutput": 62979
+          "bytesInOutput": 63069
         },
         "src/app/app.routes.ts": {
           "bytesInOutput": 10
@@ -6167,13 +6167,13 @@
           "bytesInOutput": 28
         },
         "src/app/app.component.ts": {
-          "bytesInOutput": 19922
+          "bytesInOutput": 19917
         },
         "src/main.ts": {
           "bytesInOutput": 37
         }
       },
-      "bytes": 198413
+      "bytes": 199221
     },
     "app.component.css": {
       "imports": [],
