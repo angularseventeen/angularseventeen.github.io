@@ -60,3 +60,26 @@ caniuse-lite has been successfully updated
 No target browser changes
 ```
 ```bash
+yarn run v1.22.22
+$ ng build --configuration production --output-path docs --output-hashing none --stats-json true --subresource-integrity true --verbose true
+- Building...
+
+
+  polyfills.js  32.7kb
+
+
+  main.js  194.5kb
+
+Initial chunk files | Names         |  Raw size | Estimated transfer size
+main.js             | main          | 194.53 kB |                53.04 kB
+polyfills.js        | polyfills     |  32.69 kB |                10.59 kB
+styles.css          | styles        |   0 bytes |                 0 bytes
+
+                    | Initial total | 227.22 kB |                63.64 kB
+
+Output location: /home/kushal/src/angular/angularseventeengithubio/docs
+
+Application bundle generation complete. [6.055 seconds]
+
+Done in 6.85s.
+```

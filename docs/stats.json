@@ -5620,7 +5620,7 @@
       "format": "esm"
     },
     "node_modules/@angular/core/fesm2022/core.mjs": {
-      "bytes": 1445682,
+      "bytes": 1446013,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/primitives/signals.mjs",
@@ -5816,7 +5816,7 @@
       "format": "esm"
     },
     "src/app/app.component.ts": {
-      "bytes": 23122,
+      "bytes": 23070,
       "imports": [
         {
           "path": "node_modules/@angular/core/fesm2022/core.mjs",
@@ -5861,10 +5861,6 @@
         }
       ],
       "format": "esm"
-    },
-    "src/app/app.component.scss": {
-      "bytes": 0,
-      "imports": []
     },
     "node_modules/zone.js/fesm2015/zone.js": {
       "bytes": 122478,
@@ -6149,7 +6145,7 @@
           "bytesInOutput": 0
         },
         "node_modules/@angular/core/fesm2022/core.mjs": {
-          "bytesInOutput": 77509
+          "bytesInOutput": 77530
         },
         "node_modules/@angular/common/fesm2022/common.mjs": {
           "bytesInOutput": 5763
@@ -6167,23 +6163,13 @@
           "bytesInOutput": 28
         },
         "src/app/app.component.ts": {
-          "bytesInOutput": 19917
+          "bytesInOutput": 19871
         },
         "src/main.ts": {
           "bytesInOutput": 37
         }
       },
-      "bytes": 199221
-    },
-    "app.component.css": {
-      "imports": [],
-      "inputs": {
-        "src/app/app.component.scss": {
-          "bytesInOutput": 0
-        }
-      },
-      "bytes": 0,
-      "ng-component": true
+      "bytes": 199196
     },
     "polyfills.js": {
       "imports": [],
